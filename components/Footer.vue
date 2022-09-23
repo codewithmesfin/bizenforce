@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- component -->
-    <section class="bg-black mt-20">
+    <section class="bg-black relative bottom-0  mt-20">
       <div
         class="
           max-w-lg
@@ -68,7 +68,7 @@
         >
           <button
             class="bg-tkb border text-sm text-white py-3 px-7 rounded-full"
-            onClick="{signInNow}"
+           
           >
             Join Sahilnetic
           </button>
