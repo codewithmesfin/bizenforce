@@ -94,7 +94,6 @@ const navigation = [
     { name: "Problems", href: "problems", current: false },
     { name: "Solutions", href: "solutions", current: false },
     { name: "Learn", href: "learn", current: false },
-    { name: "Team", href: "team", current: false },
     { name: "Support", href: "support", current: false },
 ]
 </script>
